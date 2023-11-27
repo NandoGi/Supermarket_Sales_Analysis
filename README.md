@@ -9,7 +9,7 @@ Proyecto de analisis de una tienda online en la que se aplica el tratamiento y l
 
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/bcecb54f-ec73-4cb2-88f5-d48781fbae79)
 
-**Muestra de graficas generadas**
+**Muestra de algunos Graficos generados**
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/a56174f0-d58e-4868-b898-5937e6650a99)
 
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/0a8bf7fe-9a21-43a0-96e2-b7af56e0c60b)
