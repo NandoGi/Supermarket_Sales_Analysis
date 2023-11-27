@@ -2,9 +2,11 @@
 Proyecto de analisis de una tienda online en la que se aplica el tratamiento y la visualización de datos buscando brindar la información clara para el cliente respecto a sus ventas totales, productos mas vendidos, segmentación por años, regiones, mayoria de clientes por ciudad, los metodos mas utilizados para el envio del producto, la relación que hay de la ganancia de los productos en base a los descuentos aplicados y la proyección de las ventas desarrollando modelos predictivos esto con el fin de tener mejor insights para la toma de desiciones mucho mas acertadas.
 
 **Configuración de ambiente**
+
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/18211954-a6db-4d37-a1ad-9a07ea535ce8)
 
 **Importacion de librerias**
+
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/bcecb54f-ec73-4cb2-88f5-d48781fbae79)
 
 **Muestra de graficas generadas**
