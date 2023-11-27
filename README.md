@@ -20,16 +20,18 @@ Proyecto de analisis de una tienda online en la que se aplica el tratamiento y l
 
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/68a6220f-c0c6-4312-9a42-109e20b5ca2a)
 
+![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/76647301-4334-4161-a02c-223becbaa8d7)
+
+![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/baddcdff-4eff-4344-bce7-bd2bd19cc541)
+
+![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/b341e8cf-2dcb-468b-ab86-62d598fd8f48)
+
+![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/6a80c118-49e5-4f00-b2c9-f3cfb3c9479e)
+
+![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/f2ceb9b9-1267-4733-ac00-5681d2b1f6f7)
+
+![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/9846f062-2236-460d-b531-10ecb38ed828)
+
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/5aa897eb-00b5-43a4-90ee-e178e84f86ff)
 
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/67586e9b-1ba7-4a67-a117-bf4f5a0973ef)
-
-
-
-
-
-
-
-
-
-
