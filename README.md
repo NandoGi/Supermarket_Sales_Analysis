@@ -4,10 +4,6 @@ Proyecto de analisis de una tienda online en la que se aplica el tratamiento y l
 **Gráfica de modelo predictivo**
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/66b8ca6f-6e72-41ac-8fff-aec74f145f26)
 
-**Configuración de ambiente**
-
-![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/18211954-a6db-4d37-a1ad-9a07ea535ce8)
-
 **Importacion de librerias**
 
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/bcecb54f-ec73-4cb2-88f5-d48781fbae79)
