@@ -1,5 +1,6 @@
 # Supermarket_Sales_Analysis
 Proyecto de analisis de una tienda online en la que se aplica el tratamiento y la visualización de datos buscando brindar la información clara para el cliente respecto a sus ventas totales, productos mas vendidos, segmentación por años, regiones, mayoria de clientes por ciudad, los metodos mas utilizados para el envio del producto, la relación que hay de la ganancia de los productos en base a los descuentos aplicados y la proyección de las ventas desarrollando modelos predictivos esto con el fin de tener mejor insights para la toma de desiciones mucho mas acertadas.
+**Resultado-Gráfica de medelo predictivo**
 ![image](https://github.com/NandoGi/Supermarket_Sales_Analysis/assets/112331034/66b8ca6f-6e72-41ac-8fff-aec74f145f26)
 
 **Configuración de ambiente**
